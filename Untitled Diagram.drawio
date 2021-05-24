@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T08:36:50.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KnbMckBGOYlPWGDVBsWA" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T10:17:04.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="eymccv9qoKw0ZzzE_0zG" version="14.7.0" type="github">
   <diagram id="wDkvw0Li7lhQuUnuCopA" name="Page-1">
     <mxGraphModel dx="2048" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1j3gliMTqgzObGHV8MeY-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="450" width="550" height="200" as="geometry" />
+          <mxGeometry x="150" y="710" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1j3gliMTqgzObGHV8MeY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="80" width="330" height="450" as="geometry" />
         </mxCell>
         <mxCell id="4ImDhPs0vx_Z9GY7AcT3-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;工序（Ope）&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="125" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="4ImDhPs0vx_Z9GY7AcT3-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;工艺（Prop）&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;propCode= value1&lt;br&gt;opeCode= value2&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="230" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1j3gliMTqgzObGHV8MeY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ImDhPs0vx_Z9GY7AcT3-14" target="1j3gliMTqgzObGHV8MeY-9">
           <mxGeometry relative="1" as="geometry">
@@ -49,25 +46,6 @@
             <mxPoint x="100" y="190" as="sourcePoint" />
             <mxPoint x="90" y="315" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4ImDhPs0vx_Z9GY7AcT3-19" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4ImDhPs0vx_Z9GY7AcT3-3" target="4ImDhPs0vx_Z9GY7AcT3-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="415" as="sourcePoint" />
-            <mxPoint x="360" y="335" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="275" />
-              <mxPoint x="380" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4ImDhPs0vx_Z9GY7AcT3-20" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="4ImDhPs0vx_Z9GY7AcT3-19" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4ImDhPs0vx_Z9GY7AcT3-21" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="4ImDhPs0vx_Z9GY7AcT3-19" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4ImDhPs0vx_Z9GY7AcT3-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;物料&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="667" y="620" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4ImDhPs0vx_Z9GY7AcT3-31" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;执行标准（Standard）&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="250" width="160" height="30" as="geometry" />
@@ -135,13 +113,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1j3gliMTqgzObGHV8MeY-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;检验计划&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ope 工序&lt;br&gt;grade 牌号&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="505" width="160" height="80" as="geometry" />
+          <mxGeometry x="150" y="610" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1j3gliMTqgzObGHV8MeY-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;理化性能标准&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ope 工序&lt;br&gt;grade 牌号&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="505" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="610" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1j3gliMTqgzObGHV8MeY-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;操作规范文件&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ope 工序&lt;br&gt;grade 牌号&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="505" width="160" height="80" as="geometry" />
+          <mxGeometry x="490" y="610" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1j3gliMTqgzObGHV8MeY-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;质量设计模板&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;pdCode 模板编号&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="670" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1j3gliMTqgzObGHV8MeY-22" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;质量设计模板特性值&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="750" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
