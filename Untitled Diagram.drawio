@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T06:52:25.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="3iLZTRRosXbzAxxSuQQQ" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T07:05:26.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HtEDQ6ZwCIeNTHnbVNLB" version="14.7.0" type="github">
   <diagram id="wDkvw0Li7lhQuUnuCopA" name="Page-1">
     <mxGraphModel dx="2310" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,6 +265,15 @@
         </mxCell>
         <mxCell id="6O5M4Bmvst82YMktr0bX-38" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;产线族子表（Clan）&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="950" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6O5M4Bmvst82YMktr0bX-48" value="Object" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6O5M4Bmvst82YMktr0bX-49" value="Object" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="568" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6O5M4Bmvst82YMktr0bX-50" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;工艺路线&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ope 工序&lt;br&gt;grade 牌号&lt;/p&gt;&amp;nbsp; pdCode 模板编号" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="553" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
