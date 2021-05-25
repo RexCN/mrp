@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T08:58:35.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="h7JBrSMkqw_nHbSzRe5A" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T09:32:20.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EeyPI3NdBaeu12zffBoj" version="14.7.0" type="github">
   <diagram id="wDkvw0Li7lhQuUnuCopA" name="Page-1">
-    <mxGraphModel dx="2310" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2956" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,26 +40,8 @@
         <mxCell id="6O5M4Bmvst82YMktr0bX-1" value="订单" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="90" width="310" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="4ImDhPs0vx_Z9GY7AcT3-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;工序（Ope）&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="125" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="6O5M4Bmvst82YMktr0bX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ImDhPs0vx_Z9GY7AcT3-14" target="6O5M4Bmvst82YMktr0bX-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-440" y="609" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-440" y="170" />
-              <mxPoint x="-440" y="617" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4ImDhPs0vx_Z9GY7AcT3-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;牌号推导链（Chan）&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;code&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ope 工序&lt;br&gt;grade 牌号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;parentCode&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="125" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="4ImDhPs0vx_Z9GY7AcT3-18" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4ImDhPs0vx_Z9GY7AcT3-14" target="4ImDhPs0vx_Z9GY7AcT3-2" edge="1">
-          <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="20" y="190" as="sourcePoint" />
-            <mxPoint x="10" y="315" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6O5M4Bmvst82YMktr0bX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ImDhPs0vx_Z9GY7AcT3-31" target="6O5M4Bmvst82YMktr0bX-21">
           <mxGeometry relative="1" as="geometry">
